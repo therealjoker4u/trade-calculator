@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+.Section{
+  width : 100%;
+  padding : 10px;
+  margin : 10px;
+  border : 1px solid #aaa;
+  border-radius: 10px;
+}
+
+table td{
+  text-align: left;
+  padding-left: 20px;
+  padding-top: 10px;
+}
+
+button{
+  cursor: pointer;
+  min-width: 100px;
+  min-height: 40px;
+}
+
+input{
+  padding : 8px;
+  font-size: 14px;
+}
